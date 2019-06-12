@@ -78,3 +78,8 @@ button {
     color: blueviolet;
     padding: 8px;
 }
+
+#message-2 {
+    padding: 10px;
+    border-left: 2px solid blueviolet;
+}
